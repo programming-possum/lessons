@@ -1,6 +1,4 @@
-#### Programming Possum
-<img src="brushtail-possum-clipart-md.png" height="200">
-![Programming Possum Logo](brushtail-possum-clipart-md.png)
+#### Programming Possum <img src="brushtail-possum-clipart-md.png" height="200">
 
 # Hello World
 
