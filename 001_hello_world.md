@@ -1,4 +1,4 @@
-<img src="brushtail-possum-clipart-md.png" height="75"></img><p><b>Programming Possum<b></p>
+<img src="brushtail-possum-clipart-md.png" height="75"></img><div><b>Programming Possum<b></div>
 
 # Hello World
 
