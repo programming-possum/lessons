@@ -3,7 +3,7 @@
     </tr>
     </table>
 
-<div align="right"><img src="brushtail-possum-clipart-md.png" height="75"></img><div><b>Programming Possum<b></div></div>
+<div align="right"><img align="right" src="brushtail-possum-clipart-md.png" height="75"></img><div><b>Programming Possum<b></div></div>
 
 # Hello World
 
