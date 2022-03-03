@@ -1,5 +1,5 @@
 <div align="left"><b>Programming Possum<b></div>
-<div align="left"><img align="right" src="brushtail-possum-clipart-md.png" height="75"></img></div>
+<div align="left"><img align="left" src="brushtail-possum-clipart-md.png" height="75"></img></div>
 <br/><br/>
     
 # Hello World
