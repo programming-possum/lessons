@@ -1,4 +1,5 @@
-#### Programming Possum <img src="brushtail-possum-clipart-md.png" height="200">
+<img src="brushtail-possum-clipart-md.png" height="50">
+#### Programming Possum 
 
 # Hello World
 
