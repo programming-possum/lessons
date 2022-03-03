@@ -1,11 +1,7 @@
-<table border="0">
-    <tr><td><img src="brushtail-possum-clipart-md.png" height="75"></img></td><td><div><b>Programming Possum<b></div></td>
-    </tr>
-    </table>
-
 <div align="right"><b>Programming Possum<b></div>
 <div align="right"><img align="right" src="brushtail-possum-clipart-md.png" height="75"></img></div>
-
+<br/><br/>
+<br/><br/>
 # Hello World
 
 ### Python
