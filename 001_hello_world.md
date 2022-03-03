@@ -3,6 +3,8 @@
     </tr>
     </table>
 
+<img src="brushtail-possum-clipart-md.png" height="75"></img><div><b>Programming Possum<b></div>
+
 # Hello World
 
 ### Python
