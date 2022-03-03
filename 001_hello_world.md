@@ -9,7 +9,7 @@
 #My first program
 print("Hello World")
 ```
-Any line or text after <pre>#<pre> is a comment in Python.
+Any line or text after/ `#` is a comment in Python.
     
 ### Java
 ```java
@@ -20,7 +20,7 @@ class HelloWorld {
     }
 }
 ```
-Any line or text after <pre>//<pre> is a comment in Java.
+Any line or text after `//` is a comment in Java.
 
 ### C
 ```c
@@ -32,7 +32,7 @@ int main(int argc, char** argv) {
     return 0;
 }
 ```
-Any line or text after <pre>//<pre> is a comment in C.
+Any line or text after `//` is a comment in C.
 
 ### MATLAB
 ```matlab
@@ -40,7 +40,7 @@ Any line or text after <pre>//<pre> is a comment in C.
 disp("Hello World\n")
 fprintf("Hello World\n")
 ```
-Any line or text after <pre>%<pre> is a comment in MATLAB.
+Any line or text after `%` is a comment in MATLAB.
 
 ### Octave
 ```octave
@@ -49,7 +49,7 @@ Any line or text after <pre>%<pre> is a comment in MATLAB.
 disp("Hello World\n")
 fprintf("Hello World\n")
 ```
-Any line or text after <pre>%<pre> or <pre>#<pre> is a comment in Octave.
+Any line or text after `%` or `#` is a comment in Octave.
 
 ### R
 ```r
@@ -57,7 +57,7 @@ Any line or text after <pre>%<pre> or <pre>#<pre> is a comment in Octave.
 print("Hello World\n")
 cat("Hello World\n")
 ```
-Any line or text after <pre>#<pre> is a comment in R.
+Any line or text after `#` is a comment in R.
 
 ### Javascript
 ```javascript
@@ -65,7 +65,7 @@ Any line or text after <pre>#<pre> is a comment in R.
 alert("Hello, World!");
 console.log("Hello World\n");
 ```
-Any line or text after <pre>//<pre> is a comment in Javascript.
+Any line or text after `//` is a comment in Javascript.
 
     <br></br>
 <sub><sup><a href="https://creazilla.com/nodes/64027-brushtail-possum-clipart">“Brushtail Possum clipart”</a>, by <a href="https://creazilla.com/">Creazilla</a>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></sup></sub>
