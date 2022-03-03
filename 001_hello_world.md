@@ -10,6 +10,7 @@
 print("Hello World")
 ```
 Any line or text after `#` is a comment in Python.
+some text
     
 ### Java
 ```java
