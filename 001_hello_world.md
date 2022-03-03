@@ -1,14 +1,15 @@
-####Programming Possum####
+#### Programming Possum
+![Programming Possum Logo](brushtail-possum-clipart-md.png)
 
-#Hello World
+# Hello World
 
-###Python###
+### Python
 ```python
 #My first program
 print("Hello World")
 ```
 
-###Java###
+### Java
 ```java
 //My first program
 class HelloWorld {
@@ -18,7 +19,7 @@ class HelloWorld {
 }
 ```
 
-###C###
+### C
 ```c
 #include <stdio.h>
 
@@ -29,14 +30,14 @@ int main(int argc, char** argv) {
 }
 ```
 
-###MATLAB###
+### MATLAB
 ```matlab
 %My first program
 disp("Hello World\n")
 fprintf("Hello World\n")
 ```
 
-###Octave###
+### Octave
 ```octave
 %My first program
 #My first program
@@ -44,14 +45,14 @@ disp("Hello World\n")
 fprintf("Hello World\n")
 ```
 
-###R###
+### R
 ```r
 #My first program
 print("Hello World\n")
 cat("Hello World\n")
 ```
 
-###Javascript###
+### Javascript
 ```javascript
 alert("Hello, World!");
 console.log("Hello World\n");
