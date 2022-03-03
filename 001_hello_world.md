@@ -9,7 +9,8 @@
 #My first program
 print("Hello World")
 ```
-
+Any line or text after <pre>#<pre> is a comment in Python.
+    
 ### Java
 ```java
 //My first program
@@ -19,6 +20,7 @@ class HelloWorld {
     }
 }
 ```
+Any line or text after <pre>//<pre> is a comment in Java.
 
 ### C
 ```c
@@ -30,6 +32,7 @@ int main(int argc, char** argv) {
     return 0;
 }
 ```
+Any line or text after <pre>//<pre> is a comment in C.
 
 ### MATLAB
 ```matlab
@@ -37,6 +40,7 @@ int main(int argc, char** argv) {
 disp("Hello World\n")
 fprintf("Hello World\n")
 ```
+Any line or text after <pre>%<pre> is a comment in MATLAB.
 
 ### Octave
 ```octave
@@ -45,6 +49,7 @@ fprintf("Hello World\n")
 disp("Hello World\n")
 fprintf("Hello World\n")
 ```
+Any line or text after <pre>%<pre> or <pre>#<pre> is a comment in Octave.
 
 ### R
 ```r
@@ -52,12 +57,15 @@ fprintf("Hello World\n")
 print("Hello World\n")
 cat("Hello World\n")
 ```
+Any line or text after <pre>#<pre> is a comment in R.
 
 ### Javascript
 ```javascript
+//My first program
 alert("Hello, World!");
 console.log("Hello World\n");
 ```
+Any line or text after <pre>//<pre> is a comment in Javascript.
 
     <br></br>
 <sub><sup><a href="https://creazilla.com/nodes/64027-brushtail-possum-clipart">“Brushtail Possum clipart”</a>, by <a href="https://creazilla.com/">Creazilla</a>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></sup></sub>
