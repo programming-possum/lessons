@@ -59,4 +59,5 @@ alert("Hello, World!");
 console.log("Hello World\n");
 ```
 
-[“Brushtail Possum clipart”](https://creazilla.com/nodes/64027-brushtail-possum-clipart), by [Creazilla](https://creazilla.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+---
+<sub><sup><a href="https://creazilla.com/nodes/64027-brushtail-possum-clipart>“Brushtail Possum clipart”</a>, by <a href="https://creazilla.com/">Creazilla</a>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></sup></sub>
